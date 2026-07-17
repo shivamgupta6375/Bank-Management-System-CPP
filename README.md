@@ -51,5 +51,6 @@ This is a terminal-based application with a simple and interactive banking inter
 
 ## Author
 **Shivam Gupta**
+
 BCA Student | JECRC University
 
