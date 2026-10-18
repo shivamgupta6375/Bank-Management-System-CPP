@@ -31,17 +31,6 @@ A console-based Bank Management System developed in C++. This project simulates 
 ## Project Preview
 This is a terminal-based application with a simple and interactive banking interface.
 
-
-## Screenshots
-### Login
-![Login](screenshots/Login%20Page.png)
-
-### Registration
-![Registration](screenshots/Registration%20Page.png)
-
-### Account Details
-![Account_Details](screenshots/Account%20Details.png)
-
 ## Future Improvements
 - File Handling for Data Storage
 - Transaction History
